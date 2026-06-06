@@ -1,2 +1,30 @@
-# terraform-aws-infra
-Terraform project to provision AWS infrastructure including VPC, EC2, Security Groups, S3, and IAM resources.
+
+# Terraform AWS Infrastructure
+
+This project demonstrates Infrastructure as Code (IaC) using Terraform on AWS.
+
+## Technologies Used
+
+* Terraform
+* AWS
+* EC2
+* IAM
+* VPC
+* Security Groups
+
+## Project Structure
+
+* provider.tf - AWS provider configuration
+* main.tf - EC2 instance resources
+* outputs.tf - Output values
+
+## Features
+
+* AWS Provider Configuration
+* EC2 Instance Provisioning
+* Infrastructure as Code Best Practices
+
+## Author
+
+Ashraf
+Senior DevOps Engineer
